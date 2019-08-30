@@ -1,0 +1,16 @@
+{
+  "name": "jsonclipper",
+  "version": "1.0.0",
+  "description": "A simple json utility to extract a portion of json with provided schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amirhaa/jsonclipper.git"
+  },
+  "keywords": [],
+  "author": "Amir Aleahmad",
+  "license": "ISC"
+}
