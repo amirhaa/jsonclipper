@@ -2,6 +2,8 @@
 
 A simple utility to extract a part of json with a provides schema, also it is available to use default values if it is not available in the original json.
 
+![](https://img.shields.io/npm/v/jsonclipper)
+
 ## Install
 
     npm i jsonclipper -D
